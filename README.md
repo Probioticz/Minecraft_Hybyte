@@ -24,6 +24,6 @@ Still working on the first one yet... nothing here
 **Extensions:**  
 Still no-one...
 
-**Ideas:**
+**Ideas:**  
 Still no-one...
 ###### Credits to Mojang for Minecraft and Scratch/TW/PM for engines
